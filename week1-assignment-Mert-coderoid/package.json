@@ -1,0 +1,25 @@
+{
+  "name": "week1-assignment-mert-coderoid",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6904364&assignment_repo_type=AssignmentRepo)\r # week1-assignment",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Mert-coderoid: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@github.com/171-Logo-Siber-FullStack-Bootcamp/week1-assignment-Mert-coderoid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/171-Logo-Siber-FullStack-Bootcamp/week1-assignment-Mert-coderoid/issues"
+  },
+  "homepage": "https://github.com/171-Logo-Siber-FullStack-Bootcamp/week1-assignment-Mert-coderoid#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.0"
+  }
+}
